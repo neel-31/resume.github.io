@@ -159,7 +159,7 @@ h1 span {
   width: 100%;
   aspect-ratio: 1 / 1.12;
   object-fit: cover;
-  filter: grayscale(1) contrast(1.05);
+  
 }
 .portrait-label {
   position: absolute;
