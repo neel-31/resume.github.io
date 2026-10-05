@@ -64,14 +64,6 @@ Allows visitors to view or download my resume.
 ### Contact
 Provides ways to connect with me through email, social media, or professional networking platforms.
 
-## 🚀 Featured Projects
-
-Some of the projects showcased in this portfolio include:
-
-- Project 1: Brief description of the project.
-- Project 2: Brief description of the project.
-- Project 3: Brief description of the project.
-
 ## Installation and Setup
 
 1. Clone the repository:
@@ -88,33 +80,12 @@ cd portfolio-website
 
 3. Open `index.html` in your browser or run the development server if using a framework.
 
-## 📷 Preview
-
-Add screenshots of your portfolio website here.
-
 ## 🔗 Live Demo
 
 Visit the live website:
 
 ```text
-https://your-portfolio-link.com
+https://neel-31.github.io/resume.github.io
 ```
-
-## 📧 Contact
-
-**Name:** Your Name  
-**Email:** your.email@example.com  
-**LinkedIn:** https://linkedin.com/in/yourprofile  
-**GitHub:** https://github.com/yourusername
-
-## 🤝 Contributing
-
-Suggestions and feedback are always welcome. Feel free to fork the repository and submit pull requests.
-
-## 📜 License
-
-This project is open source and available under the MIT License.
-
----
 
 ⭐ If you like this project, consider giving it a star on GitHub!
